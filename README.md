@@ -15,6 +15,7 @@ speed-dating-analysis
 │── notebooks
 │   ├── speed_dating_analysis.ipynb  # Main analysis notebook
 │
+│── requirements.txt  # List of dependencies
 │── README.md  # Project documentation
 ```
 
