@@ -21,7 +21,7 @@ speed-dating-analysis
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ton-repo/speed-dating-analysis.git
+   git clone https://github.com/belkaaloulmehdi/Speed-Dating-Project.git
    cd speed-dating-analysis
    ```
 2. Install dependencies:
