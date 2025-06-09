@@ -13,7 +13,7 @@ speed-dating-analysis
 │   ├── Speed_Dating_Data.csv   # Raw dataset
 │
 │── notebooks
-│   ├── speed_dating_analysis.ipynb  # Main analysis notebook
+│   ├── speed_dating_analysis.ipynb  # Main analysis notebook (there is a version in french and another in english)
 │
 │── requirements.txt  # List of dependencies
 │── README.md  # Project documentation
